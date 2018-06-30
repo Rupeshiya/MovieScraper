@@ -1,0 +1,24 @@
+{
+  "name": "hackernews_scraper",
+  "version": "1.0.0",
+  "description": "Simple web scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupeshiya/webScraper.git"
+  },
+  "author": "rupesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rupeshiya/webScraper/issues"
+  },
+  "homepage": "https://github.com/Rupeshiya/webScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0",
+    "fs": "0.0.1-security"
+  }
+}
